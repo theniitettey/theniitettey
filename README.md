@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @michaelperryjnr
+- 👨‍🎓Still a Student😂
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Pythonm HTML, JavaScript and CSS
 - 💞️ I’m looking to collaborate on Web and App development projects
