@@ -18,7 +18,7 @@
   💞️ I’m looking to collaborate on Web and App development projects
   📫 How to reach me.....check my profile
 ```
-<a href="https://app.daily.dev/michaelperryjnr"><img src="https://api.daily.dev/devcards/be6c19b64485428fa80053d2a6319869.png?r=xzc" width="400" alt="Michael Perry Tettey's Dev Card"/></a>
+<a href="https://app.daily.dev/michaelperryjnr"><img src="https://api.daily.dev/devcards/be6c19b64485428fa80053d2a6319869.png?r=a20" width="400" alt="Michael Perry Tettey's Dev Card"/></a>
 
 <h3 align="left">📱 LET'S CONNECT</h3>
 
