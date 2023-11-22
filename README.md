@@ -55,7 +55,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://github.com/michaelperryjnr">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>&nbsp;&nbsp; -->
+</a>&nbsp;&nbsp;
 
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=michaelperryjnr&theme=dracula&hide_border=true)
