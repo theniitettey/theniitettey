@@ -1,11 +1,73 @@
-- 👋 Hi, I’m @michaelperryjnr
-- 👨‍🎓Still a Student😂
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Pythonm HTML, JavaScript and CSS
-- 💞️ I’m looking to collaborate on Web and App development projects
-- 📫 How to reach me.....check my profile
+<!--<p align="right"> -->
+<!--  <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/> </p>-->
+<!--<p>-->
+<h1 align="center">Hello there😊, I’m Michhael Perry</h1>
+<p>
+    <h2 align="center">
+    What can I say, We're all learning👨‍💻
+    </h2> 
+    <p align="left">In the world of languages, I try to be the <em>Alchemist</em>
+    </p>
+</p>
 
-<!---
-michaelperryjnr/michaelperryjnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About ME
+```cpp
+  👨‍🎓Still a Student😂
+  👀 I’m interested in full stack development
+  🌱 I’m currently learning Pythonm HTML, JavaScript and CSS
+  💞️ I’m looking to collaborate on Web and App development projects
+  📫 How to reach me.....check my profile
+```
+<a href="https://app.daily.dev/michaelperryjnr"><img src="https://api.daily.dev/devcards/be6c19b64485428fa80053d2a6319869.png?r=xzc" width="400" alt="Michael Perry Tettey's Dev Card"/></a>
+
+<h3 align="left">📱 LET'S CONNECT</h3>
+
+[![telegram badge](https://img.shields.io/badge/MICHAELPERRYJNR-30302f?style=for-the-badge&logo=telegram)](https://t.me/michaelperryjnr)
+[![Twitter badge](https://img.shields.io/badge/MICAELPERRYJNR-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/michaelperryjnr)
+[![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mptettey)
+[![whatsApp badge](https://img.shields.io/badge/MIKE-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233208860872?text=Hello%20Bentil!%20I%27m%20coming%20from%20your%20Github%20profile)
+<!--[![youtube badge](https://img.shields.io/badge/youtube-30302f?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtbdUBRM5h07Ctw3oFwNaow)-->
+
+<h3 align="left">💻Recently I've been Up to:</h3>
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://img.shields.io/badge/Python-0000ff?style=for-the-badge&logo=python&logoColor=yellow" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+ <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
+</a>&nbsp;&nbsp;
+<a href="https://github.com/michaelperryjnr">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</a>&nbsp;&nbsp; -->
+
+
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=michaelperryjnr&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelperryjnr&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelperryjnr&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michaelperryjnr&theme=github_dark)
+[![Michael Perry's stats](https://github-readme-stats.vercel.app/api?username=michaelperryjnr&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelperryjnr&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/michaelperryjnr)
+
+
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelperryjnr&theme=dracula)  -->
+<h2>🏆My Collection</h2>
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=michaelperryjnr&column=7&theme=gruvbox&no-frame=true"/>
+
+<!--![GitHub metrics](https://metrics.lecoq.io/michaelperryjnr) -->
