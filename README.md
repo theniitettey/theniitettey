@@ -13,9 +13,9 @@
 ## About ME
 ```cpp
   👨‍🎓Still a Student😂
-  🧑‍💻 I'm a Freestyle developer...yeah I exist 
+  🌱 I’m a freestyle developer...it's a thing
   👀 I’m interested in full stack development
-  🌱 I’m currently learning Pythonm HTML, JavaScript and CSS
+  🌱 I’m currently learning full stack developmemt, MERN Stack
   💞️ I’m trying to bulid the next big thing
   📫 How to reach me.....check my profile
 ```
