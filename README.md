@@ -16,8 +16,6 @@
   🌱 I’m a freestyle developer...it's a thing
   👀 I’m interested in full stack development
   🌱 I’m currently learning full stack developmemt, MERN Stack
-  💞️ I’m trying to bulid the next big thing
-  📫 How to reach me.....check my profile
 ```
 <a href="https://app.daily.dev/michaelperryjnr"><img src="https://api.daily.dev/devcards/be6c19b64485428fa80053d2a6319869.png?r=a20" width="400" alt="Michael Perry Tettey's Dev Card"/></a>
 
