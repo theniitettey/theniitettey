@@ -61,7 +61,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelperryjnr&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelperryjnr&theme=merko)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michaelperryjnr&theme=merko)
-[![Michael Perry's stats](https://github-readme-stats.vercel.app/api?username=michaelperryjnr&show_icons=true&theme=merko)](https://github.com/qbentil)
+[![Michael Perry's stats](https://github-readme-stats.vercel.app/api?username=michaelperryjnr&show_icons=true&theme=merko)](https://github.com/michaelperryjnr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelperryjnr&layout=compact&langs_count=10&theme=merko&hide_border=true&count-private=true)](https://github.com/michaelperryjnr)
 
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelperryjnr&theme=dracula)  -->
