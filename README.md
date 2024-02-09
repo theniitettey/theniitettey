@@ -13,7 +13,7 @@
 ## About ME
 ```cpp
   👨‍🎓Still a Student😂
-  🌱 I’m a freestyle developer...it's a thing
+  🌱 I’m a freestyle developer...it’s a thing
   👀 I’m interested in full stack development
   🌱 I’m currently learning full stack developmemt, MERN Stack
 ```
