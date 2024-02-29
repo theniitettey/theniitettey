@@ -68,7 +68,7 @@
 <h2>🏆My Collection</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=michaelperryjnr&column=7&theme=gruvbox&no-frame=true"/>
 
-![GitHub metrics](https://metrics.lecoq.io/michaelperryjnr)
+![Metrics](https://metrics.lecoq.io/michaelperryjnr?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Atlantic%2FReykjavik)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
