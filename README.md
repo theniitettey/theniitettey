@@ -64,8 +64,11 @@
 [![Michael Perry's stats](https://github-readme-stats.vercel.app/api?username=michaelperryjnr&show_icons=true&theme=merko)](https://github.com/michaelperryjnr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelperryjnr&layout=compact&langs_count=10&theme=merko&hide_border=true&count-private=true)](https://github.com/michaelperryjnr)
 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelperryjnr&theme=dracula)  -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelperryjnr&theme=dracula)
 <h2>🏆My Collection</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=michaelperryjnr&column=7&theme=gruvbox&no-frame=true"/>
 
-<!--![GitHub metrics](https://metrics.lecoq.io/michaelperryjnr) -->
+![GitHub metrics](https://metrics.lecoq.io/michaelperryjnr)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
