@@ -19,13 +19,12 @@
 ```
 <a href="https://app.daily.dev/michaelperryjnr"><img src="https://api.daily.dev/devcards/be6c19b64485428fa80053d2a6319869.png?r=a20" width="400" alt="Michael Perry Tettey's Dev Card"/></a>
 
-<h3 align="left">📱 LET'S CONNECT</h3>
+<!-- <h3 align="left">📱 LET'S CONNECT</h3>
 
 [![telegram badge](https://img.shields.io/badge/MICHAELPERRYJNR-30302f?style=for-the-badge&logo=telegram)](https://t.me/michaelperryjnr)
 [![Twitter badge](https://img.shields.io/badge/MICHAELPERRYJNR-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/michaelperryjnr)
 [![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mptettey)
 [![whatsApp badge](https://img.shields.io/badge/MIKE-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233208860872?text=Hello%20Mike!%20I%27m%20coming%20from%20your%20Github%20profile)
-<!--[![youtube badge](https://img.shields.io/badge/youtube-30302f?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtbdUBRM5h07Ctw3oFwNaow)-->
 
 <h3 align="left">💻Recently I've been Up to:</h3>
 <a href="https://github.com/michaelperryjnr">
@@ -54,7 +53,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://github.com/michaelperryjnr">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=michaelperryjnr&theme=merko&hide_border=true)
