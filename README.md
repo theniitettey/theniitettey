@@ -2,14 +2,14 @@
     <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=22000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
 <p>
 <h1 align="center">Hello there😊, I’m Michhael Perry</h1>
-<p>
+<!-- <p>
     <h2 align="center">
     What can I say, We're all learning👨‍💻
     </h2> 
     <p align="left">In the world of languages, I try to be the <em>Alchemist</em>
     </p>
 </p>
-
+ -->
 ## About ME
 ```cpp
   👨‍🎓Still a Student😂
