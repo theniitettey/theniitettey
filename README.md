@@ -6,9 +6,7 @@
 <!--     <h2 align="center">
     What can I say, We're all learning👨‍💻
     </h2> 
-    <p align="left">In the world of languages, I try to be the <em>Alchemist</em>
-    </p> 
-keep the streak alive againnnnnnn and again and again
+    <p align="left">In the world of languages, I try to be the </p>
 -->
 </p>
 
