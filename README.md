@@ -1,7 +1,7 @@
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=22000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
 <p>
-<h1 align="center">I’m Michhael Perry</h1>
+<h1 align="center">I’m Michael Perry Tettey</h1>
 <p>
 <!--     <h2 align="center">
     What can I say, We're all learning👨‍💻
