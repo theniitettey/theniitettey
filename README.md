@@ -18,6 +18,8 @@
   🌱 I’m currently learning full stack developmemt, MERN Stack
 ```
 <a href="https://app.daily.dev/michaelperryjnr"><img src="https://api.daily.dev/devcards/be6c19b64485428fa80053d2a6319869.png?r=a20" width="400" alt="Michael Perry Tettey's Dev Card"/></a>
+![CatComputerGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed) 
+![CodingGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
 
 <!-- <h3 align="left">📱 LET'S CONNECT</h3>
 
