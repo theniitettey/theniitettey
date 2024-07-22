@@ -1,5 +1,5 @@
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=22000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
+    <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=24000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
 <p>
 <h1 align="center">I’m Michael Perry Tettey</h1>
 <p>
