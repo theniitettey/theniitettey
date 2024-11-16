@@ -1,77 +1,115 @@
-
 ![Profile Image](https://theniitettey.live/api/og/profile)
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=24000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
-<p>
-<h1 align="center">I’m Michael Perry Tettey</h1>
-<p>
-<!--     <h2 align="center">
-    What can I say, We're all learning👨‍💻
-    </h2> 
-    <p align="left">In the world of languages, I try to be the </p>
--->
 </p>
 
-## About ME
-```cpp
-  👨‍🎓Still a Student😂
-  🌱 I’m a freestyle developer...it’s a thing
-  👀 I’m interested in full stack development
-  🌱 I’m currently learning full stack developmemt, MERN Stack
-```
-<a href="https://app.daily.dev/michaelperryjnr"><img src="https://api.daily.dev/devcards/be6c19b64485428fa80053d2a6319869.png?r=a20" width="400" alt="Michael Perry Tettey's Dev Card"/></a>
-![CatComputerGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed) 
-![CodingGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+Developer;Creative+Thinker;Problem+Solver;Tech+Enthusiast" alt="About Me Typing SVG" />
+</div>
 
-<!-- <h3 align="left">📱 LET'S CONNECT</h3>
+## 🌍 Background
+`Michael Perry Nii Tettey`, I'm not just another developer – I'm a Computer Science student emerging from the vibrant heart of Ghana's tech renaissance 🇬🇭. Here in West Africa, where innovation meets tradition, I'm part of a new generation of developers who are reimagining what's possible in technology. My journey is deeply rooted in Ghana's unique tech ecosystem, where each line of code I write carries the potential to impact lives across the continent.
 
-[![telegram badge](https://img.shields.io/badge/MICHAELPERRYJNR-30302f?style=for-the-badge&logo=telegram)](https://t.me/michaelperryjnr)
-[![Twitter badge](https://img.shields.io/badge/MICHAELPERRYJNR-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/michaelperryjnr)
-[![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mptettey)
-[![whatsApp badge](https://img.shields.io/badge/MIKE-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233208860872?text=Hello%20Mike!%20I%27m%20coming%20from%20your%20Github%20profile)
+## 🎨 The Freestyle Approach
+Like a jazz musician who masters the fundamentals before improvising, my "freestyle" development philosophy is built on a solid technical foundation but unbounded by conventional thinking. Here's what freestyle means to me:
 
-<h3 align="left">💻Recently I've been Up to:</h3>
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://img.shields.io/badge/Python-0000ff?style=for-the-badge&logo=python&logoColor=yellow" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
- <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
-</a>&nbsp;&nbsp;
-<a href="https://github.com/michaelperryjnr">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</a>&nbsp;&nbsp; -->
+### Core Principles
+- **Adaptive Mindset**: Just as water takes the shape of its container, I adapt my solutions to fit unique challenges
+- **Creative Problem-Solving**: Breaking free from the "this is how it's always been done" mentality
+- **Technical Fluidity**: Seamlessly moving between technologies and approaches based on what best serves the project
+- **Innovation First**: Treating established practices as guidelines, not gospel
 
+### In Practice
+My freestyle approach means being comfortable with discomfort – embracing new technologies, experimenting with unconventional solutions, and always asking "what if?" It's about finding the sweet spot between tried-and-true methods and innovative new approaches.
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=michaelperryjnr&theme=merko&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelperryjnr&theme=merko)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelperryjnr&theme=merko)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michaelperryjnr&theme=merko)
-[![Michael Perry's stats](https://github-readme-stats.vercel.app/api?username=michaelperryjnr&show_icons=true&theme=merko)](https://github.com/michaelperryjnr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelperryjnr&layout=compact&langs_count=10&theme=merko&hide_border=true&count-private=true)](https://github.com/michaelperryjnr)
+_Where tradition meets innovation, that's where you'll find me coding_ 🚀
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=michaelperryjnr&theme=dracula) -->
-<h2>🏆My Collection</h2>
-<img width=1000 src="https://github-profile-trophy.vercel.app/?username=michaelperryjnr&column=7&theme=gruvbox&no-frame=true"/>
+## 🚀 What I'm Up To
 
-<!-- ![Metrics](https://metrics.lecoq.io/michaelperryjnr?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Atlantic%2FReykjavik) -->
+<div align="left">
+  
+- 🎓 Currently pursuing my Computer Science degree
+- 💻 Mastering the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 🌱 Learning something new every single day
+- 🔭 Working on exciting full-stack projects
+- 👯 Looking to collaborate on innovative web applications
+- 📚 Always exploring new technologies and best practices
+  
+</div>
 
-### ✍️ Random Dev Quote
+## 🛠️ Tech Stack
+
+<div align="left">
+
+### Frontend
+  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+
+### Backend
+  
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nest.js&logoColor=white" alt="NestJs" />
+
+### Tools & Technologies
+  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelperryjnr&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelperryjnr&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelperryjnr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelperryjnr&theme=radical" alt="Github Stats" />
+</div>
+
+## 🏆 My Collection
+
+<div align="center">
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=michaelperryjnr&column=7&theme=gruvbox&no-frame=true"/>
+</div>
+
+## 🎨 Fun Zone
+
+![](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed)
+![](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
+
+## 🤝 Let's Connect
+
+<div align="left">
+  <a href="https://twitter.com/theniitettey" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/mptettey" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://theniitettey.live" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website" />
+  </a>
+</div>
+
+## 💭 Dev Quote of the Day
+
+<div align="left">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+_✨ If you can dream it, you can code it! ✨_
