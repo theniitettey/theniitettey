@@ -87,8 +87,8 @@ _Where tradition meets innovation, that's where you'll find me coding_ 🚀
 
 ## 🎨 Fun Zone
 
-![](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed)
-![](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
+![CatComputerGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/4f51607c-7b3b-445a-bd5e-320f11a81eed) 
+![CodingGIF](https://github.com/MastooraTurkmen/MastooraTurkmen/assets/132576850/ddec8b62-1039-42d3-a361-46dcc1338b07)
 
 ## 🤝 Let's Connect
 
