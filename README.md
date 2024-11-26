@@ -4,8 +4,8 @@
     <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=24000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Passionate+Developer;Creative+Thinker;Problem+Solver;Tech+Enthusiast" alt="About Me Typing SVG" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=true&width=435&lines=Passionate+Developer;Creative+Thinker;Problem+Solver;Tech+Enthusiast" alt="About Me Typing SVG" />
 </div>
 
 ## 🌍 Background
