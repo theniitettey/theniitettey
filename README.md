@@ -1,7 +1,7 @@
 ![Profile Image](https://theniitettey.live/api/og/profile)
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=24000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
+    <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=29000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
 </p>
 
 <div align="left">
