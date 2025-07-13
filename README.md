@@ -1,7 +1,7 @@
 ![Profile Image](https://theniitettey.live/api/og/profile)
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=michaelperryjnr&base=29000&label=Profile%20views&color=blue&style=flat-square" alt="michaelperryjnr"/>
+    <img src="https://komarev.com/ghpvc/?username=theniitettey&base=29000&label=Profile%20views&color=blue&style=flat-square" alt="theniitettey"/>
 </p>
 
 <div align="left">
@@ -70,19 +70,19 @@ _Where tradition meets innovation, that's where you'll find me coding_ 🚀
 ## 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelperryjnr&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelperryjnr&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theniitettey&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theniitettey&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelperryjnr&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelperryjnr&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theniitettey&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theniitettey&theme=radical" alt="Github Stats" />
 </div>
 
 ## 🏆 My Collection
 
 <div align="center">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=michaelperryjnr&column=7&theme=gruvbox&no-frame=true"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=theniitettey&column=7&theme=gruvbox&no-frame=true"/>
 </div>
 
 ## 🎨 Fun Zone
