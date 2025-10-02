@@ -1,4 +1,4 @@
-![Profile Image](https://theniitettey.live/api/og/profile)
+![Profile Image](https://www.theniitettey.live/api/og/profile)
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=theniitettey&base=29000&label=Profile%20views&color=blue&style=flat-square" alt="theniitettey"/>
